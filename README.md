@@ -1,4 +1,4 @@
--  I’m @erickgx
+-  Meu nome é Erick;
 -  Atualmente estudando sobre modelagem de sistemas e programacao.
 -  Pretendendo colaborar o máximo possível com tudo e todos.
 -  Forma de contato por e-mail; erickttt2566@gmail.com.
